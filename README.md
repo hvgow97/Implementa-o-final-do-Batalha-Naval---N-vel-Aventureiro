@@ -14,22 +14,18 @@ Implementar o jogo **Batalha Naval** com um **tabuleiro 10x10**, posicionando **
    - **0** representa água (posição vazia)
    - **3** representa as posições ocupadas pelos navios
 
-## Exemplo de Saída Esperada:
 Tabuleiro Batalha Naval (0 = água, 3 = navio):
 
-0 0 0 0 0 0 0 0 0 3
-0 0 0 0 0 0 0 0 3 0
+3 0 0 0 0 0 0 0 0 3
+0 3 0 0 0 0 0 0 3 0
 0 3 3 3 3 0 0 3 0 0
-3 0 0 0 0 0 3 0 0 0
+0 0 0 0 0 0 3 0 0 0
+0 0 0 0 0 3 0 0 0 0
+0 0 0 0 0 3 0 0 0 0
+0 0 0 0 0 3 0 0 0 0
 0 0 0 0 0 3 0 0 0 0
 0 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0 0 0
-
-
-*(Obs: A saída real pode variar de acordo com os posicionamentos definidos no código.)*
 
 ## Observações:
 Este código foi desenvolvido como parte do **Desafio Batalha Naval - Nível Aventureiro**, proposto na disciplina **Introdução à Programação de Computadores (IPC)** da **Estácio**.
